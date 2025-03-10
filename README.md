@@ -23,8 +23,9 @@ e-fdeb86d4a82a)
 ## Instalando o ambiente
 1. Clone o repositório do projeto:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_PROJETO>
+   git clone git@github.com:leovnoliveira/bot-binance-cripto.git
+   cd bot-binance-cripto
+   
 2. Crie um ambiente virtual (após variáveis de ambiente já configuradas em seu sistema operacional):
    - Abra o Visual Studio Code (VSCode) e o terminal integrado.
    - No terminal, navegue até o diretório do projeto e execute o seguinte comando para criar o ambiente virtua
